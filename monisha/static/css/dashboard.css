@@ -1,0 +1,28 @@
+.picture{
+    width:5px;
+    border: rgb(1, 1, 12);
+    float:left;
+}
+.paragraph{
+    text-align: right;
+    width: 50%;
+    float: right;
+}
+.Details{
+    width: 100%;
+    border: 1px solid black;
+    padding-top:230px;
+
+}
+table{
+border-collapse: collapse;
+width:100%;
+}
+td,th{
+    border: 1px solid black;
+    text-align: left;
+    padding: 8px;
+}
+tr:nth-child(even){
+    background-color: rgb(123, 123, 218);
+}
